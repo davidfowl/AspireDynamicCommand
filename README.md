@@ -2,6 +2,10 @@
 
 This sample demonstrates how to create custom commands in .NET Aspire that can dynamically pass arguments to resources using the new **Interaction Service** and **Resource Command Service** features introduced in .NET Aspire 9.4.
 
+
+https://github.com/user-attachments/assets/411bf5df-304d-429c-b08c-30a209ee18d4
+
+
 ## Scenario
 
 This addresses the common need to:
